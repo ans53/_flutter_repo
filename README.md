@@ -14,4 +14,16 @@
 </ol>
 
 #Outut
+<h3>Start Screen</h3>
+
+<img src="https://github.com/ans53/_flutter_repo/assets/111104918/dd0fef3e-e6c0-4c78-b0cf-bf82f15c0994" width="300"  height="600" />
+
+<h3>Login Screen</h3>
+<img src="https://github.com/ans53/_flutter_repo/assets/111104918/d0d8a47d-3ead-411a-8ba6-beeb290820f0" width="300"  height="600" />
+<img src="https://github.com/ans53/_flutter_repo/assets/111104918/3f5853a2-1fc3-4ed2-a3c2-a611c8974432" width="300" height="600" />
+<h3>SignUp Screen</h3>
+<img src="https://github.com/ans53/_flutter_repo/assets/111104918/dd0fef3e-e6c0-4c78-b0cf-bf82f15c0994" width="300"  height="600" />
+
+
+
 
