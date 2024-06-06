@@ -130,7 +130,7 @@
 <h3>DFD</h3>
 <img src="https://github.com/ans53/_flutter_repo/assets/111104918/3baff0fe-611a-4fe4-b559-2a073b879acb" width="900"  height="800" />
 <h3>Use Case</h3>
-<img src="https://github.com/ans53/_flutter_repo/assets/111104918/0d3b651c-1ec8-4259-b579-d57fbab7cdee" width="600"  height="800" />
+<img src="https://github.com/ans53/_flutter_repo/assets/111104918/0d3b651c-1ec8-4259-b579-d57fbab7cdee" width="700"  height="800" />
 
 
 
